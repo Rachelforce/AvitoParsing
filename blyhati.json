@@ -1,0 +1,328 @@
+[
+  [
+    {
+      "title": "1-к квартира, 37.5 м², 24/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37.5_m_2425_et._1857478857",
+      "price": "20 000",
+      "metro": "none"
+    },
+    {
+      "title": "Студия, 27 м², 7/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_27_m_716_et._1878045162",
+      "price": "25 000",
+      "metro": "Проспект Просвещения"
+    },
+    {
+      "title": "2-к квартира, 46 м², 6/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_46_m_69_et._1498874441",
+      "price": "25 000",
+      "metro": "Озерки"
+    },
+    {
+      "title": "Студия, 20 м², 1/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_20_m_15_et._1871663609",
+      "price": "25 000",
+      "metro": "Горьковская"
+    },
+    {
+      "title": "1-к квартира, 44 м², 4/10 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_44_m_410_et._1868766041",
+      "price": "25 000",
+      "metro": "Старая деревня"
+    },
+    {
+      "title": "1-к квартира, 45 м², 11/14 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_45_m_1114_et._1121273058",
+      "price": "21 000",
+      "metro": "Гражданский проспект"
+    },
+    {
+      "title": "Студия, 24 м², 9/18 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_24_m_918_et._1502116177",
+      "price": "24 000",
+      "metro": "Приморская"
+    },
+    {
+      "title": "1-к квартира, 38 м², 4/10 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_38_m_410_et._1868773742",
+      "price": "22 000",
+      "metro": "Комендантский проспект"
+    },
+    {
+      "title": "3-к квартира, 87 м², 12/12 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/3-k_kvartira_87_m_1212_et._1880785998",
+      "price": "18 000",
+      "metro": "Проспект Ветеранов"
+    },
+    {
+      "title": "1-к квартира, 31 м², 3/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_31_m_39_et._1601869703",
+      "price": "20 000",
+      "metro": "Пионерская"
+    },
+    {
+      "title": "1-к квартира, 33 м², 6/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_33_m_69_et._1859404736",
+      "price": "13 000",
+      "metro": "Политехническая"
+    },
+    {
+      "title": "Студия, 33 м², 7/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_33_m_716_et._1879884463",
+      "price": "24 000",
+      "metro": "Звездная"
+    },
+    {
+      "title": "2-к квартира, 48 м², 10/10 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_48_m_1010_et._1868302855",
+      "price": "25 000",
+      "metro": "Академическая"
+    },
+    {
+      "title": "1-к квартира, 37 м², 7/23 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37_m_723_et._1874071186",
+      "price": "24 000",
+      "metro": "Московская"
+    },
+    {
+      "title": "1-к квартира, 26 м², 3/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_26_m_325_et._1856742246",
+      "price": "17 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 39 м², 2/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_39_m_216_et._1882257215",
+      "price": "23 000",
+      "metro": "Проспект Большевиков"
+    },
+    {
+      "title": "1-к квартира, 37 м², 8/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37_m_816_et._1873959798",
+      "price": "24 000",
+      "metro": "Беговая"
+    },
+    {
+      "title": "Студия, 26 м², 16/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_26_m_1625_et._1430557928",
+      "price": "25 000",
+      "metro": "Беговая"
+    },
+    {
+      "title": "2-к квартира, 46 м², 5/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_46_m_55_et._1877280937",
+      "price": "23 000",
+      "metro": "Проспект Славы"
+    },
+    {
+      "title": "1-к квартира, 33 м², 4/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_33_m_425_et._1858346643",
+      "price": "20 000",
+      "metro": "Купчино"
+    },
+    {
+      "title": "1-к квартира, 36 м², 5/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_36_m_59_et._1883015258",
+      "price": "23 000",
+      "metro": "Политехническая"
+    },
+    {
+      "title": "1-к квартира, 40.6 м², 9/15 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_40.6_m_915_et._1876186478",
+      "price": "24 000",
+      "metro": "Площадь Мужества"
+    },
+    {
+      "title": "1-к квартира, 40 м², 12/26 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_40_m_1226_et._1694196676",
+      "price": "21 000",
+      "metro": "Парнас"
+    },
+    {
+      "title": "2-к квартира, 47 м², 1/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_47_m_15_et._1772259677",
+      "price": "22 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 38.6 м², 9/12 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_38.6_m_912_et._1865986136",
+      "price": "21 000",
+      "metro": "Проспект Большевиков"
+    },
+    {
+      "title": "Студия, 28.5 м², 5/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_28.5_m_525_et._1873749189",
+      "price": "20 000",
+      "metro": "Звездная"
+    },
+    {
+      "title": "Студия, 25 м², 14/23 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_25_m_1423_et._1172850116",
+      "price": "22 000",
+      "metro": "Беговая"
+    },
+    {
+      "title": "Студия, 27 м², 4/24 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_27_m_424_et._1881156616",
+      "price": "21 000",
+      "metro": "Комендантский проспект"
+    },
+    {
+      "title": "1-к квартира, 36 м², 5/15 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_36_m_515_et._1880293936",
+      "price": "20 000",
+      "metro": "Парнас"
+    },
+    {
+      "title": "1-к квартира, 33.5 м², 18/24 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_33.5_m_1824_et._1881199043",
+      "price": "20 000",
+      "metro": "Комендантский проспект"
+    },
+    {
+      "title": "Студия, 28 м², 7/10 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_28_m_710_et._649878114",
+      "price": "17 000",
+      "metro": "Комендантский проспект"
+    },
+    {
+      "title": "Студия, 24 м², 11/13 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_24_m_1113_et._1772328386",
+      "price": "18 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 38 м², 9/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_38_m_916_et._867369988",
+      "price": "20 000",
+      "metro": "Удельная"
+    },
+    {
+      "title": "Студия, 28 м², 13/23 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_28_m_1323_et._1863399637",
+      "price": "23 000",
+      "metro": "Звездная"
+    },
+    {
+      "title": "Студия, 29 м², 6/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_29_m_616_et._1861039858",
+      "price": "24 000",
+      "metro": "Проспект Просвещения"
+    },
+    {
+      "title": "2-к квартира, 51 м², 4/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg_pushkin/kvartiry/2-k_kvartira_51_m_45_et._1875219701",
+      "price": "22 000",
+      "metro": "none"
+    },
+    {
+      "title": "Студия, 26 м², 7/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_26_m_716_et._1879129873",
+      "price": "18 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 39 м², 15/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_39_m_1525_et._1510935556",
+      "price": "20 000",
+      "metro": "Парнас"
+    },
+    {
+      "title": "1-к квартира, 38 м², 7/22 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_38_m_722_et._1872643985",
+      "price": "20 000",
+      "metro": "Проспект Большевиков"
+    },
+    {
+      "title": "1-к квартира, 39 м², 11/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_39_m_1125_et._1220106973",
+      "price": "24 000",
+      "metro": "Звездная"
+    },
+    {
+      "title": "1-к квартира, 55 м², 8/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_55_m_89_et._1862291786",
+      "price": "14 000",
+      "metro": "none"
+    },
+    {
+      "title": "2-к квартира, 52 м², 2/16 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_52_m_216_et._1857883602",
+      "price": "18 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 37 м², 6/12 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37_m_612_et._1851823941",
+      "price": "18 000",
+      "metro": "Дунайская"
+    },
+    {
+      "title": "1-к квартира, 37 м², 5/14 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37_m_514_et._1856889955",
+      "price": "21 000",
+      "metro": "Проспект Ветеранов"
+    },
+    {
+      "title": "1-к квартира, 29 м², 3/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_29_m_35_et._1885884302",
+      "price": "20 000",
+      "metro": "Гражданский проспект"
+    },
+    {
+      "title": "1-к квартира, 36.6 м², 13/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_36.6_m_1325_et._1775856512",
+      "price": "23 000",
+      "metro": "Проспект Просвещения"
+    },
+    {
+      "title": "2-к квартира, 46 м², 5/5 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/2-k_kvartira_46_m_55_et._1875764506",
+      "price": "19 000",
+      "metro": "Пролетарская"
+    },
+    {
+      "title": "Студия, 17 м², 1/7 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_17_m_17_et._1834488400",
+      "price": "20 900",
+      "metro": "Площадь Ленина"
+    },
+    {
+      "title": "1-к квартира, 33 м², 8/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_33_m_89_et._1069078422",
+      "price": "20 000",
+      "metro": "Международная"
+    },
+    {
+      "title": "Студия, 18 м², 1/4 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/studiya_18_m_14_et._1880043610",
+      "price": "23 000",
+      "metro": "Технологический ин-т I"
+    },
+    {
+      "title": "1-к квартира, 30 м², 2/12 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_30_m_212_et._1878076582",
+      "price": "20 000",
+      "metro": "Проспект Ветеранов"
+    },
+    {
+      "title": "1-к квартира, 38 м², 5/12 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_38_m_512_et._1871821725",
+      "price": "20 000",
+      "metro": "Девяткино"
+    },
+    {
+      "title": "1-к квартира, 32 м², 7/9 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg_pushkin/kvartiry/1-k_kvartira_32_m_79_et._1855391205",
+      "price": "16 000",
+      "metro": "none"
+    },
+    {
+      "title": "1-к квартира, 37 м², 16/25 эт.",
+      "url": "https://www.avito.ru/sankt-peterburg/kvartiry/1-k_kvartira_37_m_1625_et._1007929921",
+      "price": "25 000",
+      "metro": "Гражданский проспект"
+    }
+  ]
+]
